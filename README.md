@@ -1,2 +1,7 @@
-# Insurance-Hibernate
-Hibernate JPA-based Insurance Project with optional MVC architecture for layered structure and clean separation of concerns.
+# Insurance - Hibernate & MVC
+This project is a insurance system developed using Java and Hibernate. It supports two different usage structures:
+
+1. **Core Hibernate usage**: Direct data operations (create, update, delete) via `EntityManager`.
+2. **MVC version**: A user interface built with a layered architecture following the Model-View-Controller (MVC) pattern.
+
+
